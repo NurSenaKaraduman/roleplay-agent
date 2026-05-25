@@ -1,0 +1,12 @@
+# Konuşma geçmişi - kişisel, GitHub'a gitmesin
+history.json
+
+# Karakter dosyası - kişisel, GitHub'a gitmesin
+character.md
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
